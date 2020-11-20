@@ -21,7 +21,7 @@ Scientific Data 7, 386 (2020). https://doi.org/10.1038/s41597-020-00732-7
 *	2_Disperse_in_action: Illustration of potential practical uses through the calculation of functional diversity metrics and mean community traits
 
 # Example data
-*	taxa.txt: matrix including 44 macroinvertebrate taxa from 22 sites.
+*	Bonada2007W_AJ.txt: matrix including 44 macroinvertebrate taxa from 22 sites.
 
 Please, cite the original taxonomic database and paper to reference this dataset:
 
