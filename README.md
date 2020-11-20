@@ -42,7 +42,8 @@ install.packages(c("ade4","ape","clue", "cluster", "FD", "geometry",
 Along with other appropriate package citations, please, cite this code to reference R Functions to estimate functional diversity.
 
 ```
-Múrria, C., Iturrarte, G., Gutiérrez-Cánovas, C., 2020. A trait space at an overarching-scale yields more conclusive macroecological patterns of functional diversity. Global Ecology and Biogeography 29 (10), 1729-1742
+Múrria, C., Iturrarte, G., Gutiérrez-Cánovas, C., 2020. A trait space at an overarching-scale yields more 
+conclusive macroecological patterns of functional diversity. Global Ecology and Biogeography 29 (10), 1729-1742
 ```
 
-Please, send questions or problems related with the use of this code to Romain Sarremejane (romain.sarremejane@gmail.com) or Núria Cid (ncid@ub.edu) or Cayetano Gutiérrez-Cánovas (cayeguti@um.es).
+Please, send questions or problems related with the use of this code to Romain Sarremejane (romain.sarremejane@gmail.com), Núria Cid (ncid@ub.edu) or Cayetano Gutiérrez-Cánovas (cayeguti@um.es).
