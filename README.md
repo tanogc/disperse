@@ -17,8 +17,8 @@ Scientific Data 7, 386 (2020). https://doi.org/10.1038/s41597-020-00732-7
 
 *	0_FD_functions.R: R script to estimate Functional Diversity (FD) metrics
 	0_quality_funct_space_fromdist.R: R function for computing the quality of functional dendrogramm and multidimensional functional spaces. This function is a simplified version of the Appendix S1 associated to Maire et al. 2015 Global Ecology and Biogeography 24, 728–740.
-*	1_Exploring_Disperse.R: Main code to reproduce the results presented in the paper
-*	2_Disperse_in_action: Illustration of potential practical uses through the calculation of functional diversity metrics and mean community traits
+*	1_Exploring_Disperse.R: Main code to reproduce the results presented in the paper (Sarremejane et al. 2020)
+*	2_Disperse_in_action.R: Illustration of potential practical uses through the calculation of functional diversity metrics and mean community traits
 
 # Example data
 *	Bonada2007W_AJ.txt: matrix including 44 macroinvertebrate taxa from 22 sites.
