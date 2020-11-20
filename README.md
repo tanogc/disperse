@@ -1,10 +1,10 @@
-#DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates
+# DISPERSE, a trait database to assess the dispersal potential of European aquatic macroinvertebrates
 
 DISPERSE includes nine dispersal-related traits subdivided into 39 trait categories for 480 taxa, including Annelida, Mollusca, Platyhelminthes, and Arthropoda such as Crustacea and Insecta, generally at the genus level. Information within DISPERSE can be used to address fundamental research questions in metapopulation ecology, metacommunity ecology, macroecology and evolutionary ecology. Information on dispersal proxies can be applied to improve predictions of ecological responses to global change, and to inform improvements to biomonitoring, conservation and management strategies. 
 
 This code re-creates analysis for "A trait space at an overarching-scale yields more conclusive macroecological patterns of functional diversity" and illustrate potential practical uses through the calculation of functional diversity metrics and mean community traits.
 
-##Original article:
+## Original article:
 
 Please, use this citation to reference the database:
 ```
